@@ -1,3 +1,3 @@
 # published_nanoloop
 
-## Place for published nanoloop projects
+Place for published nanoloop projects 🔌🎹
